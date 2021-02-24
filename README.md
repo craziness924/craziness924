@@ -1,4 +1,4 @@
-#### Hello, welcome to my GitHub Profile! Here you'll find my projects, which are 100% Pulsar mods at the moment (Feb. 23rd 2021).####
+#### Hello, welcome to my GitHub Profile! Here you'll find my projects, which are 100% Pulsar mods at the moment (Feb. 23rd 2021).
 
 
 # Current Projects
