@@ -1,16 +1,19 @@
-### Hi there 👋
+#### Hello, welcome to my GitHub Profile! Here you'll find my projects, which are 100% Pulsar mods at the moment (Feb. 23rd 2021).####
 
-<!--
-**craziness924/craziness924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Pulsar Mods
+* [Customizable Handheld Scanner](https://github.com/craziness924/Customizable-Handheld-Scanner)
+* [BetterAlarms](https://github.com/craziness924/BetterAlarms)
+* [StarmapBetterZoom](https://github.com/craziness924/StarmapBetterZoom)
+
+
+
+
+
+
+
+
+
